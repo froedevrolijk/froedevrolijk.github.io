@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uncategorized on My Website</title>
+    <link>https://froedevrolijk.github.io/categories/uncategorized/</link>
+    <description>Recent content in Uncategorized on My Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Aug 2019 12:59:33 +0200</lastBuildDate>
+    
+	<atom:link href="https://froedevrolijk.github.io/categories/uncategorized/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Author Pages</title>
+      <link>https://froedevrolijk.github.io/author-pages/</link>
+      <pubDate>Tue, 06 Aug 2019 12:59:33 +0200</pubDate>
+      
+      <guid>https://froedevrolijk.github.io/author-pages/</guid>
+      <description>&lt;p&gt;Story supports author profiles, so you can highlight your bio.
+It&amp;rsquo;s possible to set this globally for the entire site, or individually for each
+piece of content. Or you can set a global default and override it on individual
+pieces of content.
+Scroll to the bottom of any page on this site to see how author profiles are
+styled.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
