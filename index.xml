@@ -58,7 +58,9 @@ a_3x&amp;#43;b_3y&amp;#43;c_3z=d_3
 
 &lt;p&gt;Math typesetting is controlled with the &lt;code&gt;feature-[no]math&lt;/code&gt; flag.&lt;/p&gt;
 
-&lt;p&gt;Read next: &lt;a href=&#34;https://froedevrolijk.github.io/music/&#34;&gt;Story&amp;rsquo;s music notation&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;Read next: &lt;a href=&#34;https://froedevrolijk.github.io/music/&#34;&gt;Story&amp;rsquo;s music notation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;{{ template &amp;ldquo;_internal/disqus.html&amp;rdquo; . }}&lt;/p&gt;</description>
 		</item>
 		
 		<item>
