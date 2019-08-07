@@ -91,49 +91,6 @@
 	<p>This great article is a demo of Story&rsquo;s ability to typeset mathematical equations,
 both inline and in block form.</p>
 
-<p>Story uses the <a href="https://khan.github.io/KaTeX/">KaTeX</a> library to typeset
-mathematical formulae in <span class="math">\( \LaTeX \)</span> notation. KaTeX is
-similar to MathJax, but simpler and faster. It provides most of the features
-needed for typesetting equations, both inline and in block form.</p>
-
-<p>Story provides a <code>math</code> Hugo shortcode to help avoid problems that result from
-Markdown processing. Here&rsquo;s an example of using the shortcode for inline math:</p>
-
-<pre><code>The quadratic equation is &#123;{< math >}}x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}&#123;{< /math >}}.</code></pre>
-
-<p>The quadratic equation is <span class="math">\( x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} \)</span>.</p>
-
-<p>And in equation mode,</p>
-
-<pre><code>&#123;{< math >}}
-x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
-&#123;{< /math >}}</code></pre>
-
-
-<div class="math">\[x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
-\]</div>
-
-<p>You don&rsquo;t have to use the shortcode, but it saves you from needing to
-backslash-escape special characters, and fixes problems like backslashes and
-spaces at the end of the line, which Hugo&rsquo;s Markdown processor will otherwise
-mangle. This enables frustration-free typesetting of more advanced equations
-such as the following:</p>
-
-
-<div class="math">\[\left\{
-\begin{array}{c}
-a_1x&#43;b_1y&#43;c_1z=d_1 \\
-a_2x&#43;b_2y&#43;c_2z=d_2 \\
-a_3x&#43;b_3y&#43;c_3z=d_3
-\end{array}
-\right.
-\]</div>
-
-<p>Math typesetting is controlled with the <code>feature-[no]math</code> flag.</p>
-
-<p>Read next: <a href="/music/">Story&rsquo;s music notation</a>.</p>
-
-<p>{{ template &ldquo;_internal/disqus.html&rdquo; . }}</p>
 </article>
 
 		</main>
