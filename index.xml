@@ -15,7 +15,7 @@
 			<author>Froede Vrolijk</author>
 			<guid>https://froedevrolijk.github.io/math/</guid>
 			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://froedevrolijk.github.io/img/DSC02615.JPG" medium="image" type="image/jpg" width="100" height="100" />
-			<description>&lt;p&gt;This article is a demo of Story&amp;rsquo;s ability to typeset mathematical equations,
+			<description>&lt;p&gt;This great article is a demo of Story&amp;rsquo;s ability to typeset mathematical equations,
 both inline and in block form.&lt;/p&gt;
 
 &lt;p&gt;Story uses the &lt;a href=&#34;https://khan.github.io/KaTeX/&#34;&gt;KaTeX&lt;/a&gt; library to typeset
